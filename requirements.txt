@@ -1,2 +1,5 @@
 nltk
 scikit-learn
+streamlit
+streamlit_option_menu
+firebase_again
